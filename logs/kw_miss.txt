@@ -21,3 +21,7 @@ tags\moody-tones_2.html
 tags\morning-light.html
 tags\natural-look.html
 tags\soft-portraits.html
+404.html
+index.html
+index_template.html
+link_list.html
